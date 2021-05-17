@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: 안녕하세요,
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+프론트엔드 개발자 정민선입니다✨
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
-
+<a target="_blank" href="https://www.notion.so/89ec168724c14d358567e2480effe6c0" class="btn btn-dark"> 노션 포트폴리오 보러가기</a>
