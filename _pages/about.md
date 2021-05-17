@@ -3,7 +3,7 @@ layout: page
 title: 안녕하세요,
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image:
 imageshadow: true
 ---
 
