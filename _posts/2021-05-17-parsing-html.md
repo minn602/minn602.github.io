@@ -2,7 +2,8 @@
 layout: post
 title: "string data html로 파서하기"
 author: Minsun
-categories: [React]
+categories: [Development]
+tags: [React]
 image:
 beforetoc: "string data로 html마크업 태그들이 한꺼번에 전달될 때 리액트에서 파싱하는 방법이다."
 toc: true

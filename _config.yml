@@ -1,23 +1,23 @@
 # Site
 name: "ddoni's blog"
 title: "ddoni's blog"
-description: ""
-logo: "🌝"
-favicon: "assets/images/logo.png"
+description: "connecting the dots"
+logo: "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1575058476/noticon/b7vmbdgm9krhkd6ejtjv.svg"
+favicon: "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1575058476/noticon/b7vmbdgm9krhkd6ejtjv.svg"
 baseurl: ""
 google_analytics: "UA-xxxxxxxx-1"
 disqus: "demowebsite"
-mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
+mailchimp-list: ""
 include: ["_pages"]
 permalink: /:title/
 email: minn602@gmail.com
 
 # Authors
 authors:
-  sal:
+  Minsun:
     name: Minsun
     display_name: Minsun
-    avatar: "assets/images/profile.jpeg"
+    avatar: "assets/images/cindy.png"
     email: minn602@gmail.com
     github: https://github.com/minn602
     description: "생산적이고 지속가능한 삶을 추구하는 프론트엔드 개발자입니다✨"
