@@ -1,9 +1,9 @@
 # Site
 name: "ddoni's blog"
-title: "ddoni's blog"
-description: "connecting the dots"
-logo: "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1575058476/noticon/b7vmbdgm9krhkd6ejtjv.svg"
-favicon: "https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1575058476/noticon/b7vmbdgm9krhkd6ejtjv.svg"
+title: ""
+description: "Tech Blog"
+logo: "assets/images/blogger.svg"
+favicon: ""
 baseurl: ""
 google_analytics: "UA-xxxxxxxx-1"
 disqus: "demowebsite"
@@ -20,7 +20,8 @@ authors:
     avatar: "assets/images/cindy.png"
     email: minn602@gmail.com
     github: https://github.com/minn602
-    description: "생산적이고 지속가능한 삶을 추구하는 프론트엔드 개발자입니다✨"
+    linkedin: https://www.linkedin.com/in/minsun-jung-98775817a/
+    description: "Develper | Traveler | Thinker"
 
 # Plugins
 plugins:
