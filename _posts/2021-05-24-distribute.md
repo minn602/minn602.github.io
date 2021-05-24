@@ -4,7 +4,7 @@ title: "첫 배포"
 author: Minsun
 categories: [Development]
 tags: [Developing Story]
-image: https://collinslife.co/img/mediacontent/media2@2x.jpg
+image:
 beforetoc: ""
 toc: true
 ---
