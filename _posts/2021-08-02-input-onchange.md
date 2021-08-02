@@ -4,7 +4,7 @@ title: "input onChange 이벤트를 딜레이 되게 처리하기"
 author: Minsun
 categories: [Development]
 tags: [React]
-image: ""
+image: "https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=633&q=80"
 beforetoc: ""
 toc: true
 ---
@@ -84,8 +84,6 @@ input 태그에는 defaultValue, value attribute 가 있는데 defaultValue는 �
 
 ### References<br />
 
-[ReactJS delay onChange while typing](https://stackoverflow.com/questions/53071774/reactjs-delay-onchange-while-typing)
-
-[Perform debounce in React.js](https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js)
-
+[ReactJS delay onChange while typing](https://stackoverflow.com/questions/53071774/reactjs-delay-onchange-while-typing)<br />
+[Perform debounce in React.js](https://stackoverflow.com/questions/23123138/perform-debounce-in-react-js)<br />
 [How to Correctly Debounce and Throttle Callbacks in React](https://dmitripavlutin.com/react-throttle-debounce/)
