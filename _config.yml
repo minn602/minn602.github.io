@@ -2,7 +2,7 @@
 name: "ddoni's blog"
 title: ""
 description: "Tech Blog"
-logo: "assets/images/techblogLogo.png"
+logo: "assets/images/logo.svg"
 favicon: ""
 baseurl: ""
 google_analytics: "UA-xxxxxxxx-1"
