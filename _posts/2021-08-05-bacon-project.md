@@ -4,7 +4,7 @@ title: "🥓리액트 리뉴얼 프로젝트 후기🥓"
 author: Minsun
 categories: [Development]
 tags: [Developing Story, React, CSS]
-image: "assets/images/project-cover.png"
+image: "assets/images/react-project.png"
 beforetoc: ""
 toc: true
 ---
